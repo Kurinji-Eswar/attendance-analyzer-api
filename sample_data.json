@@ -1,0 +1,6 @@
+{
+  "attendance": [
+    {"name": "Alice", "days_present": 18, "total_days": 20},
+    {"name": "Bob", "days_present": 12, "total_days": 20}
+  ]
+}
